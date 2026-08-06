@@ -14,3 +14,4 @@ export const VERSION = "0.1.0";
 // match the style used in the rest of the module
 // clarify the control flow
 // clarify the control flow
+// guard against empty input
